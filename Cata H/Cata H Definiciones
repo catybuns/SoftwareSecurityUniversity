@@ -1,0 +1,63 @@
+2. Definiciones Básicas
+2.1. Amenaza
+Una amenaza es cualquier evento o acción maliciosa que puede causar daño a un sistema, red o información. Estas pueden ser:
+Naturales: Desastres como inundaciones o terremotos.
+Humanas: Hackers, empleados malintencionados o errores humanos.
+Tecnológicas: Fallos de software, hardware o ataques automatizados (malware, ransomware).
+Ejemplo: Un hacker que intenta robar datos mediante un ataque de phishing.
+2.2. Vulnerabilidad
+Una vulnerabilidad es una debilidad en un sistema que puede ser explotada por una amenaza. Pueden ser:
+De software: Bugs no parcheados.
+De configuración: Contraseñas predeterminadas o permisos excesivos.
+Humanas: Falta de concienciación en seguridad.
+Ejemplo: Un servidor con un sistema operativo sin actualizar que permite ataques de exploits conocidos.
+2.3. Riesgo
+El riesgo es la probabilidad de que una amenaza explote una vulnerabilidad y cause un impacto negativo. Se calcula como:
+Riesgo=Amenaza×Vulnerabilidad×ImpactoRiesgo=Amenaza×Vulnerabilidad×Impacto
+Ejemplo: Si una empresa no cifra sus datos (vulnerabilidad) y sufre un ataque de ransomware (amenaza), el riesgo de pérdida de información es alto.
+2.4. Conceptos Relacionados
+Caja negra: Pruebas de seguridad donde el evaluador no tiene conocimiento interno del sistema (simula un atacante externo).
+Caja blanca: Evaluación con acceso total al código fuente y documentación (como un auditor interno).
+Caja gris: Combinación de ambas, donde el evaluador tiene información limitada (ejemplo: un consultor externo con credenciales básicas).
+3. Tipos de Análisis de Seguridad
+3.1. Ethical Hacking
+Es la práctica de usar técnicas de hacking de manera legal para identificar vulnerabilidades antes de que sean explotadas por ciberdelincuentes. Los ethical hackers siguen un código de conducta y trabajan con autorización.
+3.2. Penetration Testing (Pentesting)
+Simulación de un ciberataque controlado para evaluar la seguridad de un sistema. Incluye:
+Pruebas de intrusión en redes, aplicaciones o dispositivos.
+Explotación de vulnerabilidades para medir su impacto.
+3.3. Red Teaming
+Ejercicios avanzados que simulan ataques reales para evaluar la capacidad de respuesta de una organización. A diferencia del pentesting, el Red Teaming incluye ingeniería social, ataques físicos y evasión de defensas.
+3.4. Análisis de Vulnerabilidades
+Proceso de identificación, clasificación y priorización de debilidades en sistemas. Herramientas como Nessus o OpenVAS automatizan este proceso.
+3.5. Auditoría de Seguridad
+Revisión formal de políticas, controles y procedimientos para verificar el cumplimiento de normas como ISO 27001 o GDPR.
+4. Tipos de Pentesting
+4.1. Network Pentesting
+Pruebas en infraestructuras de red (routers, firewalls, servidores) para detectar configuraciones inseguras o servicios vulnerables.
+4.2. Client-Side Pentesting
+Evaluación de aplicaciones de escritorio o móviles para encontrar fallos como desbordamientos de buffer o inyecciones de código.
+4.3. Web Application Pentesting
+Análisis de sitios web y APIs para detectar vulnerabilidades como SQL Injection, XSS o CSRF.
+4.4. Wireless Pentesting
+Pruebas en redes Wi-Fi para identificar puntos de acceso no autorizados o cifrados débiles (WEP, WPA vulnerables).
+4.5. Ingeniería Social
+Simulación de ataques como phishing, pretexting o baiting para evaluar la concienciación de los empleados.
+4.6. Pentesting Físico
+Evaluación de controles de acceso físico (cerraduras, cámaras, sistemas de vigilancia) para evitar intrusiones en instalaciones.
+6. Fases de un Pentest
+6.1. Fase de Preparación
+Definición de objetivos y alcance.
+Firmar acuerdos de confidencialidad y no responsabilidad (NDA).
+Selección de herramientas (Kali Linux, Metasploit, Burp Suite).
+6.2. Fase de Ejecución
+Reconocimiento: Recopilar información (WHOIS, escaneo de puertos).
+Escaneo: Identificar servicios y vulnerabilidades (Nmap, Nessus).
+Ganar acceso: Explotar fallos para entrar al sistema.
+Mantener acceso: Verificar persistencia (backdoors).
+Cubrir huellas: Eliminar evidencias (opcional en pentests legales).
+6.3. Fase de Presentación de Resultados
+Resumen ejecutivo: Explicación no técnica para directivos.
+Detalles técnicos: Vulnerabilidades encontradas (CVSS, impacto).
+Recomendaciones: Cómo mitigar riesgos (parches, configuraciones).
+Anexos: Capturas de pantalla, logs y pruebas de concepto.
