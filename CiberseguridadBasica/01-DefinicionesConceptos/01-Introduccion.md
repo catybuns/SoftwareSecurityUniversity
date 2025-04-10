@@ -14,4 +14,4 @@ Diariamente se producen numerosos ciberataques; cuando alguno de ellos es detect
 ¿Qué ha hecho y qué se ha llevado?  
 ¿Cuánto tiempo ha estado dentro y cómo consiguió acceder?  
 
-Para ver el objetivo general de la ciberseguridad, consulta [[01 – Objetivo de la Ciberseguridad]].
+Para ver el objetivo general de la ciberseguridad, consulta [[02-objetivoDeLaCiberseguridad]].
