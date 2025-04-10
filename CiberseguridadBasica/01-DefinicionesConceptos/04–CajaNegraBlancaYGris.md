@@ -10,4 +10,4 @@ tags: [definiciones, caja]
 **Caja blanca**: el analista tiene acceso completo al código y la arquitectura.  
 **Caja gris**: conocimiento parcial; combinación de ambos.
 
-> Véase también: [[02–AnálisisDeSeguridad/01–Tipos de Análisis]]
+> Véase también: [[02–AnálisisDeSeguridad/01–tiposDeAnalisis]]

@@ -14,4 +14,4 @@ El **Penetration Testing Execution Standard** define fases y buenas prácticas p
 4. Post‑explotación  
 5. Reporte
 
-> Véase también: [[04–FasesDeUnPentest/01–FasesPrincipales]].
+> Véase también: [[04–FasesDeUnPentest/01–fasesPrincipales]].
