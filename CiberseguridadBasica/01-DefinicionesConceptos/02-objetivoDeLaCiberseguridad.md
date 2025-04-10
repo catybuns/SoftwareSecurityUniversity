@@ -10,4 +10,4 @@ El objetivo de la **ciberseguridad** es minimizar los riesgos, reduciendo las vu
 2. Hasta el análisis de los ataques recibidos  
 3. Pasando por la monitorización en tiempo real de los sistemas  
 
-Para profundizar en los conceptos clave, ve a [[03–DefinicionesBasicas]].
+Para profundizar en los conceptos clave, ve a [[03-definicionesBasicas]].
