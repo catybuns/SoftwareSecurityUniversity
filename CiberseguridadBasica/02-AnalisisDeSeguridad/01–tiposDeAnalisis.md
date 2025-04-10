@@ -12,4 +12,4 @@ Terminología para diferenciar análisis de seguridad:
 **Análisis de vulnerabilidades**  
 **Auditoría de seguridad**
 
-Para ver los tipos de pentesting específicos, consulta [[02–AnálisisDeSeguridad/02–tiposPentesting]].
+Para ver los tipos de pentesting específicos, consulta [[02–AnalisisDeSeguridad/02–tiposPentesting]].

@@ -14,4 +14,4 @@ Gestión de sesiones
 Inyección  
 Configuración de seguridad
 
-> Complementa con PTES: [[03–Metodologías/pTES]].
+> Complementa con PTES: [[03–Metodologias/pTES]].
